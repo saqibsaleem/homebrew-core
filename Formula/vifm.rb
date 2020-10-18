@@ -3,7 +3,6 @@ class Vifm < Formula
   homepage "https://vifm.info/"
   url "https://github.com/vifm/vifm/releases/download/v0.11/vifm-osx-0.11.tar.bz2"
   sha256 "d6f829ed0228a8f534d63479fc988c2b4b95e6bc49d5db5e4fabff337fba3c4c"
-  license "GPL-2.0-or-later"
 
   bottle do
     sha256 "d10ee88a7127716193fdfaad429e7c5c09f6a37c4b8b5ef78ba9cbb24229f4fa" => :catalina
